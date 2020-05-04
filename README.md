@@ -1,12 +1,12 @@
 # HW10
-#Bamazon is an online sales store.  It focuses on customer for the storefront, managers for monitoring and updating, and supervisors for adding new inventory categories.#
+### Bamazon is an online sales store.  It focuses on customer for the storefront, managers for monitoring and updating, and supervisors for adding new inventory categories.
 
 ## Technologies Used
 * JavaScript
 * Node
 * MySQL 
 
-# I. How to Run Customer Bamazon#
+# I. How to Run Customer Bamazon
 
 ## To run Bamazon on your Mac, you will need Terminal, Node, npm, and MySQL Workbench
 
@@ -34,7 +34,7 @@ When you are done, you will get a purchases summary:
 
 ![image](https://user-images.githubusercontent.com/17052715/80937629-26453480-8d93-11ea-9925-4dd8d1931fcd.png)
 
-## II.  How to run Manager Bamazon##
+# II.  How to run Manager Bamazon
 
 1. In terminal, type node bamazonManager.js
 
@@ -48,7 +48,7 @@ When you are done, you will get a purchases summary:
 
 4.  You can also add to inventory or view low inventory (items with less than 5 in stock).
 
-## III. How to run Bamazon Supervisor##
+# III. How to run Bamazon Supervisor
 
 1. In supervisor mode, you can check profits on departments and add new departments.
 
